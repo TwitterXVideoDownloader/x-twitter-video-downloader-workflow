@@ -1,6 +1,6 @@
 # X Video Downloader Workflow
 
-A GitHub Action to download X (Twitter) videos directly into your workflows. Powered by [X (Twitter) Video Downloader](https://x-downloader.com).
+A GitHub Action to download X (Twitter) videos directly into your workflows. Powered by [Twitter Video Downloader](https://x-downloader.com).
 
 ## Inputs
 
