@@ -1,0 +1,16 @@
+name: "X Video Downloader Workflow"
+description: "Automate downloading X (Twitter) videos into your GitHub workflow. Powered by x-downloader.com."
+author: "X Downloader"
+inputs:
+  video_url:
+    description: "The X (Twitter) video post URL to download"
+    required: true
+outputs:
+  download_url:
+    description: "The URL to the downloaded X video"
+runs:
+  using: "node16"
+  main: "index.js"
+branding:
+  icon: "download"
+  color: "blue"
