@@ -13,4 +13,4 @@ runs:
   main: "index.js"
 branding:
   icon: "download"
-  color: "blue"
+  color: "black"
