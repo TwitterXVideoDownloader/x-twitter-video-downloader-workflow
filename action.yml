@@ -1,4 +1,4 @@
-name: "X Video Downloader Workflow"
+name: "X (Twitter) Video Downloader Workflow"
 description: "Automate downloading X (Twitter) videos into your GitHub workflow. Powered by x-downloader.com."
 author: "X Downloader"
 inputs:
